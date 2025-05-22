@@ -3,7 +3,6 @@
 ### 🚀 Description
 Real-time collaborative coding editor with chat and audio using WebRTC + CodeMirror.
 
----
 
 ## 🛠️ Features
 - Real-time code editing 🧠
@@ -12,13 +11,11 @@ Real-time collaborative coding editor with chat and audio using WebRTC + CodeMir
 - Syntax highlighting 🎨
 - Run code support 🚀
 
----
 
 ## 🚀 Tech Stack
 - **Frontend**: React, CodeMirror, WebRTC, Socket.IO-client
 - **Backend**: Node.js, Express, Socket.IO
 
----
 
 ## 📦 Installation
 
@@ -48,7 +45,6 @@ npm start
 http://localhost:3000
 ```
 
----
 
 ## 📁 Project Structure
 
@@ -62,8 +58,3 @@ remote-pair-programming-playground/
 │   └── index.js
 ├── README.md
 ```
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
