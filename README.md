@@ -1,7 +1,7 @@
 # 👨‍💻 Remote Pair Programming Playground
 
 ### 🚀 Description
-Real-time collaborative coding editor with chat and audio using WebRTC + CodeMirror.
+A real-time collaborative coding editor with built-in chat and audio support, powered by React, WebRTC, Socket.IO, and CodeMirror. Includes syntax highlighting and run-code functionality — ideal for remote pair programming sessions.
 
 
 ## 🛠️ Features
